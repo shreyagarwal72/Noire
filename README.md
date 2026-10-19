@@ -20,7 +20,7 @@
 
 </div>
 
-**Noiré** is a catalogue browser and video player for Android phones and Android TV. It comes with no content and hosts no videos. You add an extension from a provider you trust; that extension supplies the titles, artwork and playable links, and Noiré presents them in a calm, cinematic interface. Your player. Your providers.
+**Noiré** is a catalogue browser and video player for Android phones and Android TV. It comes with no content and hosts no videos. You can add an extension from a provider you trust; that extension supplies the titles, artwork and playable links, and Noiré presents them in a calm, cinematic interface. Your player. Your providers.
 
 <p align="center"><img src="assets/divider.png" width="100%" alt=""></p>
 
